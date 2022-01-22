@@ -19,4 +19,5 @@
 `php yii migrate`
 #### Type `yes`if prompt
 `php yii serve`
-[http://localhost:8080](http://localhost:8080)
+
+Click link [http://localhost:8080](http://localhost:8080)
